@@ -8,6 +8,7 @@ dependencies = [
     "fakemp>=0.9.1",
     "ipykernel>=7.3.0",
     "matplotlib>=3.11.0",
+    "matplotlib-venn>=1.1.2",
     "mrmr-selection>=0.2.8",
     "nbconvert>=7.17.1",
     "numpy>=2.5.0",
