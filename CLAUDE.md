@@ -3,7 +3,7 @@
 ## Project
 University "Analisi dei Dati" coursework repo.
 - `FinalTask.pdf`- assignment for the project, read it carefully
-- `Foglio1.ipynb`, `Foglio2.ipynb` — worksheet exercises, cells labeled by exercise number (`## 1.12`, `## 2.3`, ...)
+- `Foglio1.ipynb`, `Foglio2.ipynb`, ... — worksheet exercises, cells labeled by exercise number (`## 1.12`, `## 2.3`, ...)
 - `progetto/` — final project: gene selection & classification on the Golub et al. (1999) leukemia dataset (`golub.csv`, 7129 genes × 72 patients, ALL vs AML)
 
 ## Environment
