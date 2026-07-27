@@ -25,3 +25,4 @@ Key libs beyond sklearn: `statsmodels` (FDR correction), `mrmr-selection` (+ `fa
 ## Development philosophy
 - Read the assignment carefully, understand the requirements and constraints.
 - Do not overengineer: use the simplest solution that works, avoid unnecessary complexity, this is an assignment for a university course, not a biological research project.
+- Explain every choice and implementation to me.
