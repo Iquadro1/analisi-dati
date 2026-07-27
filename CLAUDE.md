@@ -21,3 +21,7 @@ University "Analisi dei Dati" coursework repo.
 Key libs beyond sklearn: `statsmodels` (FDR correction), `mrmr-selection` (+ `fakemp` for its parallelism), `matplotlib-venn` (gene-set overlap diagrams).
 
 `big.ipynb` and `svm-rfe.ipynb` are exploratory variants of the `project.ipynb` pipeline, not the source of truth.
+
+## Development philosophy
+- Read the assignment carefully, understand the requirements and constraints.
+- Do not overengineer: use the simplest solution that works, avoid unnecessary complexity, this is an assignment for a university course, not a production system.
